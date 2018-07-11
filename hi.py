@@ -13,7 +13,7 @@ if True:
     print("ansuer")
 else:
     print("no")
-
+print("myname")
 #raw_input("按下enter键退出，其他任意键显示...\n")
 
 list = [ 'runoob', 786 , 2.23, 'john', 70.2 ]
