@@ -1,10 +1,6 @@
 #!/usr/bin/python
 import sys
-<<<<<<< HEAD
-
-=======
 print("我是分支2次修改")
->>>>>>> new1
 print("我是分支修改")
 
 i = 10
