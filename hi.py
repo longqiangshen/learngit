@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import sys
-
+print("")
 print("我是分支修改")
 
 i = 10
