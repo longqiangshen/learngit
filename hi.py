@@ -8,6 +8,7 @@ str = "你好，时间"
 print(m)
 print("你好")
 
+print('the third time')
 print(str)
 if True:
     print("ansuer")
